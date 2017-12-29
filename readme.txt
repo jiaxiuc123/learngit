@@ -3,3 +3,5 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 add new line
 anther line
+My stupid boss still prefers SVN..
+My stupid boss still prefers SVN..
